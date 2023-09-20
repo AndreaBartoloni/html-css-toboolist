@@ -75,4 +75,48 @@ main{
     color: gray;
     border-radius: 4px;
 }
+.pulsante-blu{
+    background-color:rgb(0, 166, 255);
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
+.pulsante-verde{
+    background-color:green;
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
+.pulsante-verde-chiaro{
+    background-color:rgb(30, 196, 30);
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
+.pulsante-arancione{
+    background-color:orange;
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
+
+.pulsante-viola{
+    background-color:purple;
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
+
+.pulsante-fucsia{
+    background-color:fuchsia;
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 13px;
+}
 
