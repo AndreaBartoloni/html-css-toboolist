@@ -1,0 +1,78 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(248, 248, 248);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    display: inline;
+    font-size: 45px;
+    margin: 20px 0px 20px 0px;
+}
+h2{
+    display: inline;
+}
+
+.logo{
+    height: 60px;
+}
+
+main{
+    width: 70%;
+    margin:auto
+}
+
+.arrow{
+    font-size: 15px;
+    
+}
+
+.sezione-pulsanti{
+    background-color: white;
+    margin: 55px 0px 3px 0px;
+    padding: 20px 0px 10px 60px;
+    border-radius: 5px 5px 0px 0px ;
+}
+
+.sezione-elenco1{
+    background-color: white;
+    padding: 30px 0px 0px 60px;
+    
+}
+
+.sezione-elenco1 p{
+    display: inline-block;
+    
+    
+}
+
+.check{
+    border: 1px solid green;
+    color: green;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    font-size: 13px;
+}
+.pulsante-task{
+    background-color:rgb(0, 166, 255);
+    border: none;
+    padding:8px 10px 8px 10px;
+    color: white;
+    border-radius: 4px;
+}
+
+.pulsante-section{
+    background-color: white;
+    border: 1px solid gray;
+    padding:8px 10px 8px 10px;
+    color: gray;
+    border-radius: 4px;
+}
+
